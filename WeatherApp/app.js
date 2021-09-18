@@ -1,5 +1,5 @@
 /*
-PROGRAMMER:-RISHABH SHARMA, Prashant Rajput,Pawan Kumar
+PROGRAMMER:-RISHABH SHARMA
                          
 */
 let input = document.querySelector('#city')
